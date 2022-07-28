@@ -1,0 +1,54 @@
+[
+  {"mob": "minecraft:bat", "player": true, "item": "minecraft:emerald", "itemcount": "0-1/0-1/0-1"},
+  {"mob": "minecraft:zombie", "player": true, "item": "minecraft:emerald", "itemcount": "0-1/0-1/0-1"},
+  {"mob": "minecraft:zombie_villager", "player": true, "item": "minecraft:emerald", "itemcount": "0-2/0-2/0-2"},
+  {"mob": "minecraft:husk", "player": true, "item": "minecraft:emerald", "itemcount": "0-1/0-1/0-1"},
+  {"mob": "minecraft:drowned", "player": true, "item": "minecraft:emerald", "itemcount": "0-1/0-1/0-1"},
+  {"mob": "minecraft:creeper", "player": true, "item": "minecraft:emerald", "itemcount": "0-2/0-2/0-2"},
+  {"mob": "minecraft:spider", "player": true, "item": "minecraft:emerald", "itemcount": "0-1/0-1/0-1"},
+  {"mob": "minecraft:skeleton", "player": true, "item": "minecraft:emerald", "itemcount": "0-2/0-2/0-2"},
+  {"mob": "minecraft:stray", "player": true, "item": "minecraft:emerald", "itemcount": "0-2/0-2/0-2"},
+  {"mob": "minecraft:slime", "player": true, "item": "minecraft:emerald", "itemcount": "0-1/0-1/0-1"},
+  {"mob": "minecraft:phantom", "player": true, "item": "minecraft:emerald", "itemcount": "1-2/1-2/1-2"},
+  {"mob": "minecraft:enderman", "player": true, "item": "minecraft:emerald", "itemcount": "0-2/0-2/0-2"},
+  {"mob": "minecraft:witch", "player": true, "item": "minecraft:emerald", "itemcount": "1-4/1-4/1-4"},
+  {"mob": "minecraft:pillager", "player": true, "item": "minecraft:emerald", "itemcount": "2-8/2-8/2-8"},
+  {"mob": "minecraft:ravager", "player": true, "item": "minecraft:emerald", "itemcount": "2-8/2-8/2-8"},
+
+{"mob": "minecraft:bat", "player": true, "item": "minecraft:cookie", "itemcount": "0-4/0-4/0-4"},
+{"mob": "minecraft:zombie", "player": true, "item": "minecraft:cookie", "itemcount": "0-4/0-4/0-4"},
+{"mob": "minecraft:zombie_villager", "player": true, "item": "minecraft:cookie", "itemcount": "0-8/0-8/0-8"},
+{"mob": "minecraft:husk", "player": true, "item": "minecraft:cookie", "itemcount": "0-4/0-4/0-4"},
+{"mob": "minecraft:drowned", "player": true, "item": "minecraft:cookie", "itemcount": "0-4/0-4/0-4"},
+{"mob": "minecraft:creeper", "player": true, "item": "minecraft:cookie", "itemcount": "0-6/0-6/0-6"},
+{"mob": "minecraft:spider", "player": true, "item": "minecraft:cookie", "itemcount": "0-4/0-4/0-4"},
+{"mob": "minecraft:skeleton", "player": true, "item": "minecraft:cookie", "itemcount": "0-6/0-6/0-6"},
+{"mob": "minecraft:stray", "player": true, "item": "minecraft:cookie", "itemcount": "0-6/0-6/0-6"},
+{"mob": "minecraft:slime", "player": true, "item": "minecraft:cookie", "itemcount": "0-2/0-2/0-2"},
+{"mob": "minecraft:phantom", "player": true, "item": "minecraft:cookie", "itemcount": "0-8/0-8/0-8"},
+{"mob": "minecraft:enderman", "player": true, "item": "minecraft:cookie", "itemcount": "0-8/0-8/0-8"},
+{"mob": "minecraft:witch", "player": true, "item": "minecraft:cookie", "itemcount": "0-16/0-16/0-16"},
+{"mob": "minecraft:pillager", "player": true, "item": "minecraft:cookie", "itemcount": "0-16/0-16/0-16"},
+{"mob": "minecraft:ravager", "player": true, "item": "minecraft:cookie", "itemcount": "0-16/0-16/0-16"},
+
+{"mob": "minecraft:zombie_villager", "player": true, "item": "minecraft:apple", "itemcount": "0-1/0-1/0-1"},
+
+{"mob": "minecraft:cave_spider", "player": true, "item": "minecraft:iron_block", "itemcount": "0-1/0-1/0-1"},
+{"mob": "minecraft:cave_spider", "player": true, "item": "minecraft:emerald_block", "itemcount": "0-1/0-1/0-1"},
+
+{"mob": "minecraft:blaze", "player": true, "item": "minecraft:gold_block", "itemcount": "0-1/0-1/0-1"},
+{"mob": "minecraft:blaze", "player": true, "item": "minecraft:emerald_block", "itemcount": "0-1/0-1/0-1"},
+
+{"mob": "minecraft:evoker", "player": true, "item": "minecraft:damaged_anvil", "itemcount": "0-1/0-1/0-1"},
+{"mob": "minecraft:vindicator", "player": true, "item": "minecraft:damaged_anvil", "itemcount": "0-1/0-1/0-1"},
+
+{"mob": "minecraft:elder_guardian", "player": true, "item": "minecraft:bedrock", "itemcount": "0-1/0-1/0-1"},
+{"mob": "minecraft:elder_guardian", "player": true, "item": "minecraft:damaged_anvil", "itemcount": "0-1/0-1/0-1"},
+
+{"mob": "minecraft:wither", "player": true, "item": "minecraft:bedrock", "itemcount": "1-1/1-1/1-1"},
+{"mob": "minecraft:wither", "player": true, "item": "minecraft:damaged_anvil", "itemcount": "1-1/1-1/1-1"},
+
+{"mob": "minecraft:ender_dragon", "player": true, "item": "minecraft:enchanting_table", "itemcount": "1-1/1-1/1-1"}
+{"mob": "minecraft:ender_dragon", "player": true, "item": "minecraft:damaged_anvil", "itemcount": "2-4/2-4/2-4"}
+
+]
